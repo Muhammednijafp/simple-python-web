@@ -1,0 +1,9 @@
+1) git init
+2) git config --global user.name "user name"
+3) git config --global user.name "email"
+4) git config --list        (q)    .....optional
+5)git status                       .......optional
+6)git add -A  ......add all files / git add image.jpg index.html
+7) git commit -m "message"
+8) git remote add "name" "path"
+9)git push "name" master
